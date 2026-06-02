@@ -14,7 +14,9 @@
     }
 
     section#login{
-        width: 80vw;
+        width: 800px;
+        height: 350px;
+        
     }
 
     section#login > div#imagem{
@@ -54,6 +56,7 @@
 
     section#login{
         width: 950px;
+        height: 500px;
     }
 
     section#login > div#imagem{
